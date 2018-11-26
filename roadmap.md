@@ -1,4 +1,9 @@
-# cblgh's Personal Roadmap
+# Cabal Roadmap
+
+Some rough notes on individual interests that we can try to fit into one big
+collective roadmap!
+
+## cblgh
 * Finish [kappa workshop](https://noffle.github.io/kappa-arch-workshop/)
     * Write a kappa view using noffle's primitives
     * Write a nonsensical kappa-view from scratch
@@ -22,4 +27,16 @@
     * Fix desktop
 * Learn (enough) React-Native
     * Fix mobile app
+
+## noffle
+* cabal is *stable*
+  * get cabal-desktop working again
+  * think about ways to scale peer count well past 128 hypercores
+  * cabal-mobile works again
+* cabal is *secure*
+  * symmetric key encryption between peers (using cabal key)
+  * ensure we're using the hash of the cabal key for discovery
+* cabal is *useful*
+  * unread messages/channels tracking (cabal-client)
+  * private messages
 
