@@ -7,10 +7,10 @@
     * Read [lachenmeyer's docs](https://dissecting-dat-lachenmayer.hashbase.io/)
     * Read [hypercore docs](https://github.com/mafintosh/hypercore)
     * Write on [WTC!HYH](https://hackmd.io/AFhXnZ-3Q3KyAWp0ZbYgUg#)
-* Implement [web version](cabal/cabal-web.md)
+* Implement cabal-web
     * Dissect [dat shopping list](https://github.com/jimpick/dat-shopping-list)
     * Host a small server on Glitch
-    * Prototype using [WebSockets](web/readme.md)
+    * Prototype using WebSockets
         * Write a small echo bot client+server
     * Prototype using WebRTC
 * Implement rekey-ing cabals
