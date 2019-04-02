@@ -1,3 +1,5 @@
+Visualise the state of the various cabal projects.
+
 |PROJECTS                                                       |STATE       |TYPE        |PHASE           
 |---------------------------------------------------------------|------------|------------|----------------
 |[cli](https://github.com/cabal-club/cabal)                     |unknown     |terminal    |released        
