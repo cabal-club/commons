@@ -14,10 +14,10 @@ collective roadmap!
     * Implement `/walkaway`
  * Implement support for binary data e.g. images
  * Implement protocol support for VoIP
- * Implement `cabal-client`, a toolbox for building cabal clients 
+ * ~~Implement `cabal-client`, a toolbox for building cabal clients~~ done: [cabal-client](https://github.com/cabal-club/cabal-client)
  * misc goals
    * Research easily transmittable cabal keys 
-      * QR codes, shortened URIs, getting cabal key from swarming on a human friendly identifier
+      * ~~QR codes~~ [done](https://github.com/cabal-club/cabal-cli/pull/136), shortened URIs, getting cabal key from swarming on a human friendly identifier
    * Implement Slack gateway
    * Sync over bluetooth
 
