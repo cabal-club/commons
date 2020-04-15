@@ -23,13 +23,15 @@ collective roadmap!
 
 ## nettle
 * cabal is *stable*
-  * get cabal-desktop working again
-  * think about ways to scale peer count well past 128 hypercores
+  * ~get cabal-desktop working again~ done, the [latest releases](https://github.com/cabal-club/cabal-desktop/releases/) are :fire:
+  * think about ways to scale peer count well past 128 hypercores, underway with [sparse kappa views](https://github.com/peermaps/kappa-sparse-query)
   * cabal-mobile works again
 * cabal is *secure*
-  * symmetric key encryption between peers (using cabal key)
-  * ensure we're using the hash of the cabal key for discovery
+  * ~symmetric key encryption between peers (using cabal key)~ [done](https://github.com/cabal-club/cabal-core/commit/3452e480ac2f9aa81f894d6449fc5d71c12c0a52)
+  * ~ensure we're using the hash of the cabal key for discovery~ [done](https://github.com/cabal-club/cabal-core/commit/e7af46c89a569c95bcc7ec49c4fd1aec15be3771)
 * cabal is *useful*
-  * unread messages/channels tracking (cabal-client)
+  * ~unread messages/channels tracking~ [done](https://github.com/cabal-club/cabal-client) 
+    * (cblgh: would be good to persist to unread state to disk, tho)
+ * misc goals
   * private messages
 
