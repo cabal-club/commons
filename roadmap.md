@@ -21,7 +21,7 @@ collective roadmap!
    * Implement Slack gateway
    * Sync over bluetooth
 
-## noffle
+## nettle
 * cabal is *stable*
   * get cabal-desktop working again
   * think about ways to scale peer count well past 128 hypercores
