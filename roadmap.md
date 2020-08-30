@@ -16,7 +16,7 @@ collective roadmap!
  * Implement protocol support for VoIP
  * ~~Implement `cabal-client`, a toolbox for building cabal clients~~, [done](https://github.com/cabal-club/cabal-client)
  * misc goals
-   * Research easily transmittable cabal keys 
+   * ~~Research easily transmittable cabal keys~~ Accomplished
       * ~~QR codes~~ [done](https://github.com/cabal-club/cabal-cli/pull/136), 
       * ~dns-shortened URIs~ [done](https://github.com/datprotocol/dat-dns/pull/15), 
       * ~getting cabal key from swarming on a human friendly identifier~ [done](https://github.com/cabal-club/cabal-client/pull/63)
