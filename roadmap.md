@@ -19,7 +19,7 @@ collective roadmap!
    * Research easily transmittable cabal keys 
       * ~~QR codes~~ [done](https://github.com/cabal-club/cabal-cli/pull/136), 
       * ~dns-shortened URIs~ [done](https://github.com/datprotocol/dat-dns/pull/15), 
-      * getting cabal key from swarming on a human friendly identifier, [issue](https://github.com/cabal-club/cabal-client/issues/24)
+      * ~getting cabal key from swarming on a human friendly identifier~ [done](https://github.com/cabal-club/cabal-client/pull/63)
    * Implement Slack gateway
    * Sync over bluetooth
    * Fix cabal-irc bridge
