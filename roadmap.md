@@ -1,9 +1,23 @@
 # Cabal Roadmap
+_this roadmap was collaborated on in September 2020. the contents of each parens show how the item relates to our [contribution guidlines](values.md)_
+
+- cabal-ui, cabal web, cabal mobile _(Accessibility, polish, separation of concerns, sustainability)_
+- Internationalization _(Accessibility, Polish, Small trusted groups)_
+- Simpler & smaller protocol/cli library _(accessibility, small trusted groups, separation of concerns)_
+- Zero knowledge peers _(supports small trusted groups, path to funding sustainability, accessibility)_
+- Communal documentation-cleaning sprint _(polish, sustainability, accessibility)_
+- Scrollback _(polish, separation of concerns via dedicated npm module)_
+- Private messages _(small trusted groups, polish, accessibility, separation of concerns)_
+- Image sharing _(small trusted groups, polish, accessibility)_
+
+---
+
+### Older Cabal Roadmap
 
 Some rough notes on individual interests that we can try to fit into one big
 collective roadmap!
 
-## cblgh
+### cblgh
 * Implement cabal-web
     * Prototype using WebSockets
     * Prototype using WebRTC
@@ -24,7 +38,7 @@ collective roadmap!
    * Sync over bluetooth
    * Fix cabal-irc bridge
 
-## nettle
+### nettle
 * cabal is *stable*
   * ~get cabal-desktop working again~ done, the [latest releases](https://github.com/cabal-club/cabal-desktop/releases/) are :fire:
   * think about ways to scale peer count well past 128 hypercores, underway with [sparse kappa views](https://github.com/peermaps/kappa-sparse-query)
